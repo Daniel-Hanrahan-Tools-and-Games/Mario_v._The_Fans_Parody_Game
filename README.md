@@ -1,5 +1,3 @@
-# Mario_v._The_Fans
-
 A parody text-based RPG where Mario from the Super Mario Bros series fights his Fans.
 
 I have no plans on releasing this on fantasy computers, Game Creation systems, Scratch or having mod support in this game but anyone can make those versions or add that stuff in the game if they want to.
