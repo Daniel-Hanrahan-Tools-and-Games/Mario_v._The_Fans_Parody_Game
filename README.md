@@ -4,7 +4,7 @@ A parody text-based RPG where Mario from the Super Mario Bros series fights his 
 
 I have no plans on releasing this on fantasy computers, Game Creation systems, Scratch or having mod support in this game but anyone can make those versions or add that stuff in the game if they want to.
 
-<p><b><u>Warning: This Game uses Characters in a Satarical, Parodic and Fictitious manner which falls under fair use, we are not affilated with the creators of those characters or anyone affiliated with the creators of those characters, unless we created them and this game comes with no/0 copyrighted material other than our own, so you/The Player would have to get your own copyrighted material legally.</u></p></b>
+Warning: This Game uses Characters in a Satarical, Parodic and Fictitious manner which falls under fair use, we are not affilated with the creators of those characters or anyone affiliated with the creators of those characters, unless we created them and this game comes with no/0 copyrighted material other than our own, so you/The Player would have to get your own copyrighted material legally.
 
 <h3>Relevant court cases about fair use that applies here</h3>
 <ul>
