@@ -48,7 +48,7 @@ Only the code and ruleset has its own licenses
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Compacted">Licensing info for ruleset found here</a>
 
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Mario_v._The_Fans">Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Mario_v._The_Fans_Parody_Game">Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
 
